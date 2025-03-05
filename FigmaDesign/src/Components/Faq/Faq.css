@@ -1,0 +1,27 @@
+.faq-section {
+    padding: 40px;
+    color: white;
+    background-color: #0d0d0d;
+  }
+  
+  .faq-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .faq-item {
+    margin-bottom: 15px;
+  }
+  
+  .faq-question {
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .faq-answer {
+    font-size: 16px;
+    color: #b0b0b0;
+    margin-top: 5px;
+  }
+  

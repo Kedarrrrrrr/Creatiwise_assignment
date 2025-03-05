@@ -1,0 +1,35 @@
+.expertise {
+    padding: 50px;
+    color: white;
+    background-color: black;
+  }
+  
+  .title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .expertise-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+  }
+  
+  .expertise-item {
+    background: none;
+    padding: 10px;
+  }
+  
+  .expertise-item h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .expertise-item p {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #ccc;
+  }
+  
